@@ -4,8 +4,8 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "7edc8e25-91c9-11ea-a90a-9c305b3be320",
-            "deck_config_uuid": "7edc8e26-91c9-11ea-b72a-9c305b3be320",
+            "crowdanki_uuid": "835640ae-af0b-11ea-a000-4ccc6a262742",
+            "deck_config_uuid": "214da16e-98a6-11ea-b9bd-8cec4b4599e9",
             "desc": "",
             "dyn": 0,
             "extendNew": 10,
@@ -130,7 +130,7 @@
                         "<div>To {{c1::arrive}} is to get to or reach some place.</div>→ &nbsp;The bus always {{c1::arrive}}s at the corner of my street at 4:00.",
                         "[sound:arrive_1397924728875.mp3]",
                         "<div style=\"MARGIN: 0px 0px 5px\"><i>arrive /ə'raiv/</i><br />\n<ul>\n<li><b><i>nội động từ</i></b>\n<ul>\n<li><font color=\"#cc0000\"><b>(+ at, in) đến, tới nơi; xảy đến</b></font></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>đi đến, đạt tới</b></font>\n<ul>\n<li><b>to arrive at a conclusion</b>: đi tới một kết luận</li>\n<li><b>to arrive at perfection</b>: đạt tới chỗ toàn thiện</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>thành đạt</b></font></li></ul></li></ul></div>",
-                        ""
+                        "I arrive at home at 7h00 pm after finish work"
                     ],
                     "flags": 0,
                     "guid": "pVhuY&l}NX",
@@ -479,8 +479,8 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "7edcdc2a-91c9-11ea-b704-9c305b3be320",
-            "deck_config_uuid": "7edc8e26-91c9-11ea-b72a-9c305b3be320",
+            "crowdanki_uuid": "8356a2bc-af0b-11ea-b549-4ccc6a262742",
+            "deck_config_uuid": "214da16e-98a6-11ea-b9bd-8cec4b4599e9",
             "desc": "",
             "dyn": 0,
             "extendNew": 10,
@@ -954,8 +954,8 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "7edd2a11-91c9-11ea-b9cc-9c305b3be320",
-            "deck_config_uuid": "7edc8e26-91c9-11ea-b72a-9c305b3be320",
+            "crowdanki_uuid": "8357175a-af0b-11ea-8295-4ccc6a262742",
+            "deck_config_uuid": "214da16e-98a6-11ea-b9bd-8cec4b4599e9",
             "desc": "",
             "dyn": 0,
             "extendNew": 10,
@@ -1143,7 +1143,7 @@
                         "<div>{{c1::ever}} means at any time.</div>→ &nbsp;Going skiing last winter was the most fun I've {{c1::ever}} had.",
                         "[sound:ever_1397924728875.mp3]",
                         "<div style=\"MARGIN: 0px 0px 5px\"><i>ever /'evə/</i><br />\n<ul>\n<li><b><i>phó từ</i></b>\n<ul>\n<li><font color=\"#cc0000\"><b>bao giờ; từ trước đến giờ; hàng, từng</b></font>\n<ul>\n<li><b>more than ever</b>: hơn bao giờ hết</li>\n<li><b>the best story ever heard</b>: chuyện hay nhất đã từng được nghe</li>\n<li><b>the greatest thinker ever</b>: nhà tư tưởng lớn nhất từ trước đến giờ</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>luôn luôn, mãi mãi</b></font>\n<ul>\n<li><b>to live for ever</b>: sống mãi</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>(thông tục) nhỉ</b></font>\n<ul>\n<li><b>what ever does he wants?</b>: nó muốn cái gì thế nhỉ?</li>\n<li><b>who ever can it be?</b>: ai thế nhỉ?</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b><i>did you ever?</i></b></font>\n<ul>\n<li><b>có bao giờ anh (nghe chuyện như thế, thấy chuyện như thế) chưa?</b></li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>thế không?</b></font></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b><i>ever had anon</i></b></font>\n<ul>\n<li><b>(xem) anon</b></li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b><i>ever after</i></b></font>\n<ul>\n<li><font color=\"#cc0000\"><b><i>ever since</i></b></font>\n<ul>\n<li><b>suốt từ đó, mãi mãi từ đó</b></li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b><i>ever so</i></b></font>\n<ul>\n<li><b>(thông tục) rất là, thật là, lắm, hết sức</b></li></ul></li></ul>\n<ul>\n<li><b>to be ever so happy</b>: thật là hạnh phúc</li></ul>\n<ul>\n<li><b>thank you ever so much</b>: cảm ơn anh lắm, hết sức cảm ơn anh</li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b><i>for ever</i></b></font>\n<ul>\n<li><font color=\"#cc0000\"><b><i>for ever and ever</i></b></font>\n<ul>\n<li><b>mãi mãi</b></li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b><i>yours ever</i></b></font>\n<ul>\n<li><b>bạn thân của anh (công thức cuối thư)</b></li></ul></li></ul></li></ul></li></ul></li></ul></div>",
-                        ""
+                        "<ul><li><span style=\"font-style: italic;\"><span style=\"font-weight: inherit;\">Nothing </span><font color=\"#d6d600\" style=\"\"><b>ever </b></font><span style=\"font-weight: inherit;\">happens here.</span></span></li><li><span style=\"font-style: italic;\"><span style=\"font-weight: inherit;\">Don't you </span><font color=\"#d6d600\" style=\"\"><b>ever </b></font><span style=\"font-weight: inherit;\">get tired?</span></span></li></ul>"
                     ],
                     "flags": 0,
                     "guid": "B5xc/KYt!N",
@@ -1227,7 +1227,7 @@
                         "<div>{{c1::instead}} means in place of.</div>→ &nbsp;He ate the carrot {{c1::instead}} of the ice cream.",
                         "[sound:instead_1397924728875.mp3]",
                         "<em>instead /in'sted/<br /></em>\n<ul>\n<li><b><i>phó từ</i></b>\n<ul>\n<li><font color=\"#cc0000\"><b>để thay vào, để thế cho; đáng lẽ là</b></font>\n<ul>\n<li><b>instead of this</b>: để thế cho cái này</li>\n<li><b>since we had no sugar, we used honey instead</b>: vì không có đường chúng tôi dùng mật để thay thế</li>\n<li><b>instead of going out, he stayed at home</b>: đáng lẽ phải đi ra ngoài, hắn ta cứ ở xó nhà</li></ul></li></ul></li></ul>",
-                        ""
+                        "instead = in place of"
                     ],
                     "flags": 0,
                     "guid": "jj>Przn|ig",
@@ -1430,12 +1430,13 @@
             "__type__": "Deck",
             "children": [],
             "crowdanki_uuid": "7edda030-91c9-11ea-88b4-9c305b3be320",
-            "deck_config_uuid": "7edc8e26-91c9-11ea-b72a-9c305b3be320",
+            "deck_config_uuid": "214da16e-98a6-11ea-b9bd-8cec4b4599e9",
             "desc": "",
             "dyn": 0,
             "extendNew": 10,
             "extendRev": 50,
             "media_files": [
+                "408566_368372003264738_1185032030_n.jpg",
                 "4615c98b09ffadf01cc40115f0171beb721737d2_00.jpg",
                 "appropriate_1397924728875.mp3",
                 "avoid_1397924728875.mp3",
@@ -1597,7 +1598,7 @@
                         "<div><font color=\"#cc0000\"><br /></font></div>To be {{c1::content}} is to be happy and not want more.<br />→ &nbsp;The baby looked very {{c1::content}} sitting on the floor.",
                         "[sound:content_1397924728875.mp3]",
                         "<ul>\n<li><b><i>danh từ, (thường) số nhiều</i></b>\n<ul>\n<li><font color=\"#cc0000\"><b>nội dung</b></font>\n<ul>\n<li><b>the contents of a letter</b>: nội dung một bức thư</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>(chỉ số ít) sức chứa, sức đựng, dung tích, dung lượng (bình, hồ, ao...); thể tích (khối đá...); diện tích, bề mặt (ruộng...)</b></font>\n<ul>\n<li><b>the content of a cask</b>: dung lượng một cái thùng</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>lượng, phân lượng</b></font>\n<ul>\n<li><b>the sugar content per acre of beer</b>: lượng đường thu hoạch trên một mẫu Anh củ cải</li>\n<li><b>the ester content of an oil</b>: (phân) lượng este trong một chất dầu</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b><i>table of contents</i></b></font>\n<ul>\n<li><b>(xem) table</b></li></ul></li></ul></li></ul>\n<ul>\n<li><b><i>danh từ</i></b>\n<ul>\n<li><font color=\"#cc0000\"><b>sự bằng lòng, sự vừa lòng, sự hài lòng, sự vừa ý, sự toại nguyện, sự mãn nguyện, sự thoả mãn</b></font>\n<ul>\n<li><b>to one's heart's content</b>: thoả mãn; vừa lòng mãn ý</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>sự bỏ phiếu thuận (thượng nghị viện Anh)</b></font></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>(số nhiều) những phiếu thuận; những người bỏ phiếu thuận</b></font>\n<ul>\n<li><b>supposing the number of contents and not contents are strictly equal</b>: giả dụ rằng số phiếu thuận và số phiếu chống đúng bằng nhau</li></ul></li></ul></li></ul>\n<ul></ul>\n<ul>\n<li><b><i>tính từ</i></b>\n<ul>\n<li><font color=\"#cc0000\"><b>bằng lòng, vừa lòng, hài lòng, vừa ý, toại nguyện, mãn nguyện, thoả mãn</b></font>\n<ul>\n<li><b>to be content with something</b>: vừa lòng cái gì</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>sẵn lòng, vui lòng</b></font>\n<ul>\n<li><b>I am content to go of you want mr to</b>: tôi sẵn sàng (vui lòng) đi nếu anh muốn</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>thuận (thượng nghị viện Anh)</b></font>\n<ul>\n<li><b>content</b>: thuận</li>\n<li><b>not content</b>: chống</li></ul></li></ul></li></ul>\n<ul></ul>\n<ul>\n<li><b><i>ngoại động từ</i></b>\n<ul>\n<li><font color=\"#cc0000\"><b>làm bằng lòng, làm vừa lòng, làm đẹp lòng, làm vui lòng, làm vừa ý, làm đẹp ý, làm mãn nguyện, thoả mãn</b></font>\n<ul>\n<li><b>to content oneself with something</b>: bằng lòng vậy với cái gì</li>\n<li><b>to content oneself with doing something</b>: bằng lòng cái gì</li></ul></li></ul></li></ul>",
-                        ""
+                        "content ~ pleased ~ satisfied"
                     ],
                     "flags": 0,
                     "guid": "g?gqG/XWfr",
@@ -1631,7 +1632,7 @@
                     "data": "",
                     "fields": [
                         "68",
-                        "<img src=\"paste-26796300959747.jpg\" />",
+                        "<img src=\"paste-26796300959747.jpg\"><div><br></div><div><img src=\"408566_368372003264738_1185032030_n.jpg\"><br></div>",
                         "<span style=\"color: rgb(204, 0, 0)\">thường xuyên</span>",
                         "fr__ __ __ __ __ __ __y",
                         "frequently",
@@ -1681,7 +1682,7 @@
                         "<div>To {{c1::instruct}} is to teach.</div>→ &nbsp;My teacher {{c1::instruct}}s us in several subjects.",
                         "[sound:instruct_1397924728875.mp3]",
                         "<li><b><i>ngoại động từ</i></b>\n<ul>\n<li><font color=\"#cc0000\"><b>chỉ dẫn, chỉ thị cho</b></font></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>dạy, đào tạo</b></font></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>truyền kiến thức cho; cung cấp tin tức cho, cung cấp tài liệu cho, cho hay, cho biết</b></font></li></ul></li>",
-                        ""
+                        "counsel = chi bao, huong dan"
                     ],
                     "flags": 0,
                     "guid": "t8TaMbb%}C",
@@ -1904,8 +1905,8 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "7eddee02-91c9-11ea-acca-9c305b3be320",
-            "deck_config_uuid": "7edc8e26-91c9-11ea-b72a-9c305b3be320",
+            "crowdanki_uuid": "83580116-af0b-11ea-b3e7-4ccc6a262742",
+            "deck_config_uuid": "214da16e-98a6-11ea-b9bd-8cec4b4599e9",
             "desc": "",
             "dyn": 0,
             "extendNew": 10,
@@ -2379,8 +2380,8 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "7ede3bed-91c9-11ea-a809-9c305b3be320",
-            "deck_config_uuid": "7edc8e26-91c9-11ea-b72a-9c305b3be320",
+            "crowdanki_uuid": "8358760f-af0b-11ea-83af-4ccc6a262742",
+            "deck_config_uuid": "214da16e-98a6-11ea-b9bd-8cec4b4599e9",
             "desc": "",
             "dyn": 0,
             "extendNew": 10,
@@ -2854,8 +2855,8 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "7ede89d9-91c9-11ea-a062-9c305b3be320",
-            "deck_config_uuid": "7edc8e26-91c9-11ea-b72a-9c305b3be320",
+            "crowdanki_uuid": "8358eaf6-af0b-11ea-85c5-4ccc6a262742",
+            "deck_config_uuid": "214da16e-98a6-11ea-b9bd-8cec4b4599e9",
             "desc": "",
             "dyn": 0,
             "extendNew": 10,
@@ -3329,8 +3330,8 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "7eded7bd-91c9-11ea-993a-9c305b3be320",
-            "deck_config_uuid": "7edc8e26-91c9-11ea-b72a-9c305b3be320",
+            "crowdanki_uuid": "83595fe0-af0b-11ea-afbd-4ccc6a262742",
+            "deck_config_uuid": "214da16e-98a6-11ea-b9bd-8cec4b4599e9",
             "desc": "",
             "dyn": 0,
             "extendNew": 10,
@@ -3644,7 +3645,7 @@
                         "<div>To {{c1::propose}} something is to say that it should be done.</div>→ &nbsp;Santa Claus {{c1::propose}}d that I try to be a good boy all year.<br />",
                         "[sound:propose_1397924728875.mp3]",
                         "<div style=\"COLOR: #808080; MARGIN: 0px 0px 5px; LINE-HEIGHT: normal\"><span style=\"FONT-SIZE: 10.5pt;COLOR: #000000;LINE-HEIGHT: normal\"><b>propose</b></span> &nbsp;</div>\n<div style=\"MARGIN: 0px 0px 5px\"><i>propose /propose/</i><br />\n<ul>\n<li><b><i>ngoại động từ</i></b>\n<ul>\n<li><font color=\"#cc0000\"><b>đề nghị, đề xuất, đưa ra</b></font>\n<ul>\n<li><b>to propose a course of action</b>: đề xuất một đường lối hành động</li>\n<li><b>to propose a motion</b>: đưa ra một kiến nghị</li>\n<li><b>to propose a change</b>: đề nghị một sự thay đổi</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>lấy làm mục đích; đặt ra, đề ra (làm mục đích)</b></font>\n<ul>\n<li><b>the object I propose to myself</b>: mục đích tôi đề ra cho bản thân</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>đề nghị nâng cốc chúc, đề nghị uống mừng</b></font>\n<ul>\n<li><b>to propose someone's health</b>: đề nghị nâng cốc chúc sức khoẻ ai</li>\n<li><b>to propose a toast</b>: đề nghị nâng cốc chúc mừng (sức khoẻ ai...)</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>tiến cử, đề cử</b></font>\n<ul>\n<li><b>to propose a candidate</b>: đề cử một người ra ứng cử</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>cầu (hôn)</b></font>\n<ul>\n<li><b>to propose mariage to someone</b>: cầu hôn ai</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>có ý định, dự định, trù định</b></font>\n<ul>\n<li><b>to propose to go tomorrow; to propose going tomorrow</b>: dự định đi ngày mai</li></ul></li></ul></li></ul>\n<ul></ul>\n<ul>\n<li><b><i>nội động từ</i></b>\n<ul>\n<li><font color=\"#cc0000\"><b>có ý định, dự định, trù định</b></font></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>cầu hôn</b></font>\n<ul>\n<li><b>to propose to someone</b>: cầu hôn ai</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b><i>man proposes, God disposes</i></b></font>\n<ul>\n<li><b>(xem) disposes</b></li></ul></li></ul></li></ul></div>",
-                        ""
+                        "should be done = nên làm"
                     ],
                     "flags": 0,
                     "guid": "BG=P1C1~?0",
@@ -3804,13 +3805,14 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "7edf25ac-91c9-11ea-a926-9c305b3be320",
-            "deck_config_uuid": "7edc8e26-91c9-11ea-b72a-9c305b3be320",
+            "crowdanki_uuid": "8359dec6-af0b-11ea-b928-4ccc6a262742",
+            "deck_config_uuid": "214da16e-98a6-11ea-b9bd-8cec4b4599e9",
             "desc": "",
             "dyn": 0,
             "extendNew": 10,
             "extendRev": 50,
             "media_files": [
+                "1571272226_news_6761ng",
                 "against_1397924728875.mp3",
                 "beach_1397924728875.mp3",
                 "csm_cousine_island_057_1339e09652.jpg",
@@ -3822,12 +3824,11 @@
                 "frank_1397924728875.mp3",
                 "identify_1397924728875.mp3",
                 "island_1397924728875.mp3",
+                "ld.jpg",
                 "ocean_1397924728875.mp3",
                 "paste-64385854734339.jpg",
                 "paste-64828236365827.jpg",
                 "paste-65266323030019.jpg",
-                "paste-65721589563395.jpg",
-                "paste-66172561129475.jpg",
                 "paste-67031554588675.jpg",
                 "paste-67881958113283.jpg",
                 "paste-68728066670595.jpg",
@@ -3924,7 +3925,7 @@
                     "data": "",
                     "fields": [
                         "164",
-                        "<img src=\"paste-65721589563395.jpg\" />",
+                        "<img src=\"ld.jpg\">",
                         "<span style=\"color: rgb(204, 0, 0)\">khám phá, tìm ra</span>",
                         "d__ __c__ __ __ __",
                         "discover",
@@ -3945,7 +3946,7 @@
                     "data": "",
                     "fields": [
                         "165",
-                        "<img src=\"paste-66172561129475.jpg\" />",
+                        "<img src=\"1571272226_news_6761ng\">",
                         "<span style=\"color: rgb(204, 0, 0)\">cảm&nbsp;xúc</span>",
                         "e__ __ __ __ __n",
                         "emotion",
@@ -4281,8 +4282,8 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "7edf7279-91c9-11ea-b7dc-9c305b3be320",
-            "deck_config_uuid": "7edc8e26-91c9-11ea-b72a-9c305b3be320",
+            "crowdanki_uuid": "835a539c-af0b-11ea-8aef-4ccc6a262742",
+            "deck_config_uuid": "214da16e-98a6-11ea-b9bd-8cec4b4599e9",
             "desc": "",
             "dyn": 0,
             "extendNew": 10,
@@ -4301,6 +4302,7 @@
                 "grass_1397924728875.mp3",
                 "guard_1397924728875.mp3",
                 "image_1397924728875.mp3",
+                "images5337825_xay.jpg",
                 "immediate_1397924728875.mp3",
                 "paste-75557064671235.jpg",
                 "paste-76008036237315.jpg",
@@ -4312,7 +4314,6 @@
                 "paste-78726750535683.jpg",
                 "paste-79164837199875.jpg",
                 "paste-79620103733251.jpg",
-                "paste-80968723464195.jpg",
                 "paste-81432579932163.jpg",
                 "paste-81870666596355.jpg",
                 "paste-82330228097027.jpg",
@@ -4588,7 +4589,7 @@
                     "data": "",
                     "fields": [
                         "193",
-                        "<img src=\"paste-80968723464195.jpg\" />",
+                        "<img src=\"images5337825_xay.jpg\">",
                         "<span style=\"color: rgb(204, 0, 0)\">gốc, căn bản</span>",
                         "pr__ __ __ __ __",
                         "primary",
@@ -4756,8 +4757,8 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "7edfc185-91c9-11ea-9eb6-9c305b3be320",
-            "deck_config_uuid": "7edc8e26-91c9-11ea-b72a-9c305b3be320",
+            "crowdanki_uuid": "835ac88f-af0b-11ea-95ed-4ccc6a262742",
+            "deck_config_uuid": "214da16e-98a6-11ea-b9bd-8cec4b4599e9",
             "desc": "",
             "dyn": 0,
             "extendNew": 10,
@@ -4987,7 +4988,7 @@
                         "<div>{{c1::either}} is used with \"or\" to say there are two or more possibilities.</div>→ &nbsp;You can choose to be {{c1::either}} white or black when you play chess.",
                         "[sound:either_1397924728875.mp3]",
                         "<div style=\"MARGIN: 0px 0px 5px\"><i>either /'aiðə,(Mỹ)'i:ðə/</i><br />\n<ul>\n<li><b><i>tính từ</i></b>\n<ul>\n<li><font color=\"#cc0000\"><b>mỗi (trong hai), một (trong hai)</b></font></li></ul></li></ul>\n<ul></ul>\n<ul>\n<li><b><i>danh từ</i></b>\n<ul>\n<li><font color=\"#cc0000\"><b>mỗi người (trong hai), mỗi vật (trong hai); một người (trong hai); một vật (trong hai)</b></font></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>cả hai (người, vật)</b></font>\n<ul></ul></li></ul></li></ul>\n<ul></ul>\n<ul>\n<li><b><i>liên từ</i></b>\n<ul>\n<li><font color=\"#cc0000\"><b>hoặc</b></font>\n<ul>\n<li><b>either... or...</b>: ... hoặc...</li>\n<li><b>either come in or go out</b>: hoặc vào hoặc ra</li>\n<li><b>either drunk or mad</b>: hoặc là say hoặc là khùng</li></ul></li></ul></li></ul>\n<ul></ul>\n<ul>\n<li><b><i>phó từ (dùng với câu hỏi phủ định)</i></b>\n<ul>\n<li><font color=\"#cc0000\"><b>cũng phải thế</b></font>\n<ul>\n<li><b>if you don't take it, I shan't either</b>: nếu anh không lấy cái đó thì tôi cũng không lấy</li></ul></li></ul></li></ul></div>",
-                        ""
+                        "<i>-&nbsp;<font color=\"#ffaa00\"><b>If you like either</b>&nbsp;</font>house music&nbsp;<b>or</b>&nbsp;rock, you'll enjoy the party because there will be one room for each type of music.<br><br>-<font color=\"#ffaa00\">&nbsp;<b>Whether</b>&nbsp;</font>you like house music&nbsp;<b>or</b>&nbsp;rock, you'll enjoy the party because there will be one room for each type of music.</i>"
                     ],
                     "flags": 0,
                     "guid": "Elk4U>{Ujo",
@@ -5231,8 +5232,8 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "7ee05c2e-91c9-11ea-a61c-9c305b3be320",
-            "deck_config_uuid": "7edc8e26-91c9-11ea-b72a-9c305b3be320",
+            "crowdanki_uuid": "835b3d71-af0b-11ea-9306-4ccc6a262742",
+            "deck_config_uuid": "214da16e-98a6-11ea-b9bd-8cec4b4599e9",
             "desc": "",
             "dyn": 0,
             "extendNew": 10,
@@ -5706,8 +5707,8 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "7ee0ab44-91c9-11ea-b365-9c305b3be320",
-            "deck_config_uuid": "7edc8e26-91c9-11ea-b72a-9c305b3be320",
+            "crowdanki_uuid": "835bb252-af0b-11ea-9d15-4ccc6a262742",
+            "deck_config_uuid": "214da16e-98a6-11ea-b9bd-8cec4b4599e9",
             "desc": "",
             "dyn": 0,
             "extendNew": 10,
@@ -6182,7 +6183,7 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "7ee0f955-91c9-11ea-8cc5-9c305b3be320",
+            "crowdanki_uuid": "835c2738-af0b-11ea-bb52-4ccc6a262742",
             "deck_config_uuid": "7edbf260-91c9-11ea-9b6f-9c305b3be320",
             "desc": "",
             "dyn": 0,
@@ -6658,8 +6659,8 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "7ee1471a-91c9-11ea-9ba8-9c305b3be320",
-            "deck_config_uuid": "7edc8e26-91c9-11ea-b72a-9c305b3be320",
+            "crowdanki_uuid": "835ce9e1-af0b-11ea-a599-4ccc6a262742",
+            "deck_config_uuid": "214da16e-98a6-11ea-b9bd-8cec4b4599e9",
             "desc": "",
             "dyn": 0,
             "extendNew": 10,
@@ -6827,7 +6828,7 @@
                         "<div>If something is {{c1::extreme}}, it is in a large amount or degree.</div>→ &nbsp;His workout was so {{c1::extreme}} that he was sweating heavily.",
                         "[sound:extreme_1397924728875.mp3]",
                         "<div style=\"MARGIN: 0px 0px 5px\"><i>extreme /iks'tri:m/</i><br />\n<ul>\n<li><b><i>tính từ</i></b>\n<ul>\n<li><font color=\"#cc0000\"><b>ở tít đằng đầu, ở đằng cùng, xa nhất, ở tột cùng</b></font></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>vô cùng, tột bực, cùng cực, cực độ</b></font>\n<ul>\n<li><b>extreme poverty</b>: cảnh nghèo cùng cực</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>khắc nghiệt; quá khích; cực đoan (biện pháp)</b></font>\n<ul>\n<li><b>extreme views</b>: quan điểm quá khích</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>(tôn giáo) cuối cùng</b></font>\n<ul>\n<li><b>extreme unction</b>: lễ xức dầu cuối cùng (trước khi chết)</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b><i>an extreme case</i></b></font>\n<ul>\n<li><b>một trường hợp đặc biệt</b></li></ul></li></ul></li></ul></div>",
-                        ""
+                        "<b><font color=\"#ffff00\"><i>Intense ~ Severe ~ Extreme</i></font></b>"
                     ],
                     "flags": 0,
                     "guid": "Q8G%+zy9nk",
@@ -7135,7 +7136,7 @@
             "__type__": "Deck",
             "children": [],
             "crowdanki_uuid": "7ee19500-91c9-11ea-bb05-9c305b3be320",
-            "deck_config_uuid": "7edc8e26-91c9-11ea-b72a-9c305b3be320",
+            "deck_config_uuid": "214da16e-98a6-11ea-b9bd-8cec4b4599e9",
             "desc": "",
             "dyn": 0,
             "extendNew": 10,
@@ -7609,7 +7610,7 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "7ee1e318-91c9-11ea-a1bd-9c305b3be320",
+            "crowdanki_uuid": "835dd3a2-af0b-11ea-9222-4ccc6a262742",
             "deck_config_uuid": "7edbf260-91c9-11ea-9b6f-9c305b3be320",
             "desc": "",
             "dyn": 0,
@@ -7633,9 +7634,9 @@
                 "hill_1397924728875.mp3",
                 "level_1397924728875.mp3",
                 "lone_1397924728875.mp3",
+                "office-celebrate.png",
                 "paste-142425410502659.jpg",
                 "paste-143318763700227.jpg",
-                "paste-143756850364419.jpg",
                 "paste-144199231995907.jpg",
                 "paste-144645908594691.jpg",
                 "paste-145083995258883.jpg",
@@ -7673,7 +7674,7 @@
                         "<div>&nbsp;{{c1::appreciate}} something is to understand its good qualities.</div>→ &nbsp;I can {{c1::appreciate}} the lovely scenery.",
                         "[sound:appreciate_1397924728875.mp3]",
                         "<ul>\n<li><b><i>ngoại động từ</i></b>\n<ul>\n<li><font color=\"#cc0000\"><b>đánh giá</b></font></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>đánh giá đúng, đánh giá cao, hiểu rõ giá trị</b></font></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>(từ Mỹ,nghĩa Mỹ) thấy rõ, nhận thức; sâu sắc</b></font>\n<ul>\n<li><b>to appreciate the value of...</b>: đánh giá đúng giá trị của...</li>\n<li><b>to appreciate the difficulties of the situation</b>: thấy rõ hoàn cảnh khó khăn, đánh giá chung những khó khăn của tình hình</li>\n<li><b>to appreciate the necessity</b>: thấy rõ được sự cần thiết</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>biết thưởng thức, biết đánh giá</b></font></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>cảm kích</b></font>\n<ul>\n<li><b>I greatly appreciate your kindness</b>: tôi rất cảm kích lòng tốt của anh</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>nâng giá, tăng giá trị (của cái gì)</b></font>\n<ul></ul></li></ul></li></ul>\n<ul></ul>\n<ul>\n<li><b><i>nội động từ</i></b>\n<ul>\n<li><font color=\"#cc0000\"><b>lên giá (hàng hoá...), tăng giá trị</b></font></li></ul></li></ul>",
-                        ""
+                        "your help was greatly <font color=\"#c6c600\">appreciated</font><br><i>sự giúp đỡ của bạn được <font color=\"#c6c600\">đánh giá cao</font> đấy</i><br><br>you don't seem to <font color=\"#c6c600\">appreciate </font>how busy I am<br><i>anh có vẻ không <font color=\"#c6c600\">thông cảm</font> là tôi bận đến mức nào</i><br>"
                     ],
                     "flags": 0,
                     "guid": "d&/&,x]m*4",
@@ -7749,7 +7750,7 @@
                     "data": "",
                     "fields": [
                         "325",
-                        "<img src=\"paste-143756850364419.jpg\" />",
+                        "<img src=\"office-celebrate.png\">",
                         "<span style=\"color: rgb(204, 0, 0)\">làm lễ kỷ niệm,&nbsp;</span><span style=\"color: rgb(204, 0, 0); \">tán dương, ca tụng</span>",
                         "c__l__ __ __ __ __ __",
                         "celebrate",
@@ -7820,7 +7821,7 @@
                         "<div>If you talk about something {{c1::else}}, you talk about something different.</div>→ &nbsp;I wanted a bike for my birthday, but I got something {{c1::else}}.",
                         "[sound:else_1397924728875.mp3]",
                         "<em>else /els/<br /></em>\n<ul>\n<li><b><i>phó từ</i></b>\n<ul>\n<li><font color=\"#cc0000\"><b>khác, nữa</b></font>\n<ul>\n<li><b>anyone else?</b>: người nào khác?</li>\n<li><b>anything else?</b>: cái gì khác?, cái gì nữa?</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>nếu không</b></font>\n<ul>\n<li><b>run, [or] else you'll miss your train</b>: chạy đi nếu không sẽ lỡ chuyến xe lửa</li></ul></li></ul></li></ul>",
-                        ""
+                        "<ul><li><span style=\"font-style: italic;\"><span style=\"font-weight: inherit;\">What </span><font color=\"#d6d600\" style=\"\"><b>else </b></font><span style=\"font-weight: inherit;\">did he say?</span></span></li><li><span style=\"font-style: italic;\"><span style=\"font-weight: inherit;\">I don't want anything </span><font color=\"#d6d600\" style=\"\"><b>else</b></font><span style=\"font-weight: inherit;\">, thanks.</span></span></li></ul>"
                     ],
                     "flags": 0,
                     "guid": "I,FRRJZ]-^",
@@ -8085,8 +8086,8 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "7ee230ee-91c9-11ea-9777-9c305b3be320",
-            "deck_config_uuid": "7edc8e26-91c9-11ea-b72a-9c305b3be320",
+            "crowdanki_uuid": "835e48a2-af0b-11ea-8d1c-4ccc6a262742",
+            "deck_config_uuid": "214da16e-98a6-11ea-b9bd-8cec4b4599e9",
             "desc": "",
             "dyn": 0,
             "extendNew": 10,
@@ -8561,8 +8562,8 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "7ee27da5-91c9-11ea-b715-9c305b3be320",
-            "deck_config_uuid": "7edc8e26-91c9-11ea-b72a-9c305b3be320",
+            "crowdanki_uuid": "835ebd86-af0b-11ea-b6bc-4ccc6a262742",
+            "deck_config_uuid": "214da16e-98a6-11ea-b9bd-8cec4b4599e9",
             "desc": "",
             "dyn": 0,
             "extendNew": 10,
@@ -9036,8 +9037,8 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "7ee3196d-91c9-11ea-a101-9c305b3be320",
-            "deck_config_uuid": "7edc8e26-91c9-11ea-b72a-9c305b3be320",
+            "crowdanki_uuid": "835f5940-af0b-11ea-815d-4ccc6a262742",
+            "deck_config_uuid": "214da16e-98a6-11ea-b9bd-8cec4b4599e9",
             "desc": "",
             "dyn": 0,
             "extendNew": 10,
@@ -9512,8 +9513,8 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "7ee36873-91c9-11ea-957b-9c305b3be320",
-            "deck_config_uuid": "7edc8e26-91c9-11ea-b72a-9c305b3be320",
+            "crowdanki_uuid": "835fcf37-af0b-11ea-830c-4ccc6a262742",
+            "deck_config_uuid": "214da16e-98a6-11ea-b9bd-8cec4b4599e9",
             "desc": "",
             "dyn": 0,
             "extendNew": 10,
@@ -9987,14 +9988,15 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "7ee3b659-91c9-11ea-a6ec-9c305b3be320",
-            "deck_config_uuid": "7edc8e26-91c9-11ea-b72a-9c305b3be320",
+            "crowdanki_uuid": "83606441-af0b-11ea-8392-4ccc6a262742",
+            "deck_config_uuid": "214da16e-98a6-11ea-b9bd-8cec4b4599e9",
             "desc": "",
             "dyn": 0,
             "extendNew": 10,
             "extendRev": 50,
             "media_files": [
                 "219716-2122x1413-grievingwomancrying.jpg",
+                "Best-Mystery-Books.jpg",
                 "Shannon-Gates.jpg",
                 "actual_1397924728875.mp3",
                 "amaze_1397924728875.mp3",
@@ -10019,7 +10021,6 @@
                 "paste-189841849450499.jpg",
                 "paste-190288526049283.jpg",
                 "paste-191624260878339.jpg",
-                "paste-192066642509827.jpg",
                 "paste-192504729174019.jpg",
                 "paste-192951405772803.jpg",
                 "paste-193389492436995.jpg",
@@ -10273,7 +10274,7 @@
                     "data": "",
                     "fields": [
                         "432",
-                        "<img src=\"paste-192066642509827.jpg\" />",
+                        "<img src=\"Best-Mystery-Books.jpg\">",
                         "<span style=\"color: rgb(204, 0, 0)\">điều huyền bí,&nbsp;</span><span style=\"color: rgb(204, 0, 0); \">điều bí ẩn</span>",
                         "__y__ __ __ __y",
                         "mystery",
@@ -10462,8 +10463,8 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "7ee40444-91c9-11ea-93f4-9c305b3be320",
-            "deck_config_uuid": "7edc8e26-91c9-11ea-b72a-9c305b3be320",
+            "crowdanki_uuid": "8360d887-af0b-11ea-956e-4ccc6a262742",
+            "deck_config_uuid": "214da16e-98a6-11ea-b9bd-8cec4b4599e9",
             "desc": "",
             "dyn": 0,
             "extendNew": 10,
@@ -10939,7 +10940,7 @@
             "__type__": "Deck",
             "children": [],
             "crowdanki_uuid": "7ee4522f-91c9-11ea-a0b3-9c305b3be320",
-            "deck_config_uuid": "7edc8e26-91c9-11ea-b72a-9c305b3be320",
+            "deck_config_uuid": "214da16e-98a6-11ea-b9bd-8cec4b4599e9",
             "desc": "",
             "dyn": 0,
             "extendNew": 10,
@@ -11413,8 +11414,8 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "7ee4a019-91c9-11ea-b9e3-9c305b3be320",
-            "deck_config_uuid": "7edc8e26-91c9-11ea-b72a-9c305b3be320",
+            "crowdanki_uuid": "8361d31f-af0b-11ea-ad95-4ccc6a262742",
+            "deck_config_uuid": "214da16e-98a6-11ea-b9bd-8cec4b4599e9",
             "desc": "",
             "dyn": 0,
             "extendNew": 10,
@@ -11743,7 +11744,7 @@
                     "fields": [
                         "494",
                         "<img src=\"paste-44440026611715.jpg\" />",
-                        "<span style=\"color: rgb(204, 0, 0)\">nhận ra</span>",
+                        "<span style=\"color: rgb(204, 0, 0)\">nhận ra, thừa nhận</span>",
                         "r__ __ __ __ __ __z__",
                         "recognize",
                         "['rekəgnaɪz]",
@@ -11890,7 +11891,7 @@
             "__type__": "Deck",
             "children": [],
             "crowdanki_uuid": "7ee4ee33-91c9-11ea-aef5-9c305b3be320",
-            "deck_config_uuid": "7edc8e26-91c9-11ea-b72a-9c305b3be320",
+            "deck_config_uuid": "214da16e-98a6-11ea-b9bd-8cec4b4599e9",
             "desc": "",
             "dyn": 0,
             "extendNew": 10,
@@ -12364,8 +12365,8 @@
         {
             "__type__": "Deck",
             "children": [],
-            "crowdanki_uuid": "7ee56308-91c9-11ea-bc23-9c305b3be320",
-            "deck_config_uuid": "7edc8e26-91c9-11ea-b72a-9c305b3be320",
+            "crowdanki_uuid": "8362e3ce-af0b-11ea-823d-4ccc6a262742",
+            "deck_config_uuid": "214da16e-98a6-11ea-b9bd-8cec4b4599e9",
             "desc": "",
             "dyn": 0,
             "extendNew": 10,
@@ -12428,7 +12429,7 @@
                         "<div>{{c1::actually}} means in fact or really.</div>→ &nbsp;My dad looks a little mean, but {{c1::actually}} he's very kind.",
                         "[sound:actually_1397924728875.mp3]",
                         "<div style=\"MARGIN: 0px 0px 5px\"><i>actually /'æktjuəli/</i><br />\n<ul>\n<li><b><i>phó từ</i></b>\n<ul>\n<li><font color=\"#cc0000\"><b>thực sự, quả thật, đúng, quả là</b></font></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>hiện tại, hiện thời, hiện nay</b></font></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>ngay cả đến và hơn thế</b></font></li></ul></li></ul></div>",
-                        ""
+                        "= indeed"
                     ],
                     "flags": 0,
                     "guid": "O=)3{)>;(?",
@@ -12680,7 +12681,7 @@
                         "<div>A {{c1::journey}} is a long trip.</div>→ &nbsp;I went on a {{c1::journey}} across the country with my parents.",
                         "[sound:journey_1397924728875.mp3]",
                         "<ul>\n<li><b><i>danh từ</i></b>\n<ul>\n<li><font color=\"#cc0000\"><b>cuộc hành trình (thường là bằng đường bộ)</b></font></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>chặng đường đi, quâng đường đi (trong một thời gian nhất định)</b></font>\n<ul>\n<li><b>to go by easy journeys</b>: đi từng chặng đường ngắn</li>\n<li><b>a three day's journey</b>: chặng đường đi mất ba ngày; cuộc hành trình ba ngày</li></ul></li></ul></li></ul>\n<ul></ul>\n<ul>\n<li><b><i>nội động từ</i></b>\n<ul>\n<li><font color=\"#cc0000\"><b>làm một cuộc hành trình</b></font></li></ul></li></ul>",
-                        ""
+                        "<b><font color=\"#ffff00\">journey</font></b> = long trip<br><b><font color=\"#ffff00\">tour</font></b> = short trip"
                     ],
                     "flags": 0,
                     "guid": "Mdi+a0CL]U",
@@ -12841,7 +12842,7 @@
             "__type__": "Deck",
             "children": [],
             "crowdanki_uuid": "7ee5b0d6-91c9-11ea-b0df-9c305b3be320",
-            "deck_config_uuid": "7edc8e26-91c9-11ea-b72a-9c305b3be320",
+            "deck_config_uuid": "214da16e-98a6-11ea-b9bd-8cec4b4599e9",
             "desc": "",
             "dyn": 0,
             "extendNew": 10,
@@ -12924,7 +12925,7 @@
                         "<div>{{c1::barely}} means by the smallest amount, almost not.</div>→ &nbsp;I {{c1::barely}} had enough money to pay for my bus ticket.",
                         "[sound:barely_1397924728875.mp3]",
                         "<div style=\"MARGIN: 0px 0px 5px\"><i>barely /'beəli/</i><br />\n<ul>\n<li><b><i>phó từ</i></b>\n<ul>\n<li><font color=\"#cc0000\"><b>công khai, rõ ràng</b></font></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>rỗng không, trơ trụi; nghèo nàn</b></font></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>vừa mới, vừa đủ</b></font>\n<ul>\n<li><b>to have barely enough time to catch the train</b>: có vừa đủ thời gian để bắt kịp xe lửa</li></ul></li></ul></li></ul></div>",
-                        "<a href=\"https://www.youtube.com/watch?v=z1PauShJx8c\">https://www.youtube.com/watch?v=z1PauShJx8c</a><div>Barely means: Almost not.<br>Example: She barely understood. Which means, she almost did not understood anything, but did understand a little bit.<br></div>"
+                        "<a href=\"https://www.youtube.com/watch?v=z1PauShJx8c\">https://www.youtube.com/watch?v=z1PauShJx8c</a><div><font color=\"#ffff00\">Barely&nbsp;</font>= <font color=\"#ffff00\">Almost not.</font><br><u><i>Example:</i></u> She <font color=\"#ffff00\">barely</font> understood. <i><u>Which means</u></i>, she <font color=\"#ffff00\">almost did not</font> understood anything, but did understand a little bit.<br></div>"
                     ],
                     "flags": 0,
                     "guid": "sP0K%fEA#l",
@@ -13316,7 +13317,7 @@
             "__type__": "Deck",
             "children": [],
             "crowdanki_uuid": "7ee5fda3-91c9-11ea-a661-9c305b3be320",
-            "deck_config_uuid": "7edc8e26-91c9-11ea-b72a-9c305b3be320",
+            "deck_config_uuid": "214da16e-98a6-11ea-b9bd-8cec4b4599e9",
             "desc": "",
             "dyn": 0,
             "extendNew": 10,
@@ -13523,7 +13524,7 @@
                         "i__ __ __ __ __ __ __c__",
                         "importance",
                         "[ɪm'pɔːt(ə)n(t)s]",
-                        "<div>::importance}} means the quality or condition of being needed or valued.</div>→ &nbsp;VIPs are people of great {{c1::importance}}.",
+                        "<div>{{c1::importance}} means the quality or condition of being needed or valued.</div>→ &nbsp;VIPs are people of great {{c1::importance}}.",
                         "[sound:importance_1397924728875.mp3]",
                         "<li><b><i>danh từ</i></b>\n<ul>\n<li><font color=\"#cc0000\"><b>sự quan trọng, tầm quan trọng</b></font>\n<ul>\n<li><b>a problem of great importance</b>: một vấn đề rất quan trọng</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>quyền thế, thế lực</b></font>\n<ul>\n<li><b>self-importance; to speak with an air of importance</b>: nói với vẻ ta đây quan trọng, nói làm ra vẻ quan trọng</li></ul></li></ul></li>",
                         ""
@@ -13754,7 +13755,7 @@
                         "s__ __ __ __ __h",
                         "strength",
                         "[streŋθ]",
-                        "<div>::strength}} is the physical power that you have.</div>→ &nbsp;Exercising will increase your {{c1::strength}} and give you more power.",
+                        "<div>{{c1::strength}} is the physical power that you have.</div>→ &nbsp;Exercising will increase your {{c1::strength}} and give you more power.",
                         "[sound:strength_1397924728875.mp3]",
                         "<li><b><i>danh từ</i></b>\n<ul>\n<li><font color=\"#cc0000\"><b>sức mạnh, sức lực, sức khoẻ</b></font></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>độ đậm, nồng độ; cường độ</b></font>\n<ul>\n<li><b>the strength of tea</b>: độ đậm của nước trà</li>\n<li><b>the strength of wine</b>: nồng độ của rượu</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>số lượng đầy đủ (của một tập thể...)</b></font>\n<ul>\n<li><b>they were there in great (full) strength</b>: họ có mặt đông đủ cả</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>(quân sự) số quân hiện có</b></font></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>(kỹ thuật) sức bền; độ bền</b></font>\n<ul>\n<li><b>strength of materials</b>: sức bền vật liệu</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b><i>to measure one's strength with someone</i></b></font>\n<ul>\n<li><b>(xem) measure</b></li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b><i>on the strength of</i></b></font>\n<ul>\n<li><b>tin vào, cậy vào; được sự khuyến khích của; căn cứ vào, lập luận từ</b></li></ul></li></ul>\n<ul>\n<li><b>I did it on the strength of your promise</b>: tôi làm việc đó là tin vào lời hứa của anh</li></ul></li>",
                         ""
@@ -13792,7 +13793,7 @@
             "__type__": "Deck",
             "children": [],
             "crowdanki_uuid": "7ee64cb0-91c9-11ea-976d-9c305b3be320",
-            "deck_config_uuid": "7edc8e26-91c9-11ea-b72a-9c305b3be320",
+            "deck_config_uuid": "83649f5d-af0b-11ea-9e97-4ccc6a262742",
             "desc": "",
             "dyn": 0,
             "extendNew": 10,
@@ -13805,6 +13806,7 @@
                 "center_1397924728875.mp3",
                 "common_1397924728875.mp3",
                 "cost_1397924728875.mp3",
+                "cover_image.jpg.640x360_q85_crop.jpg",
                 "demonstrate_1397924728875.mp3",
                 "different_1397924728875.mp3",
                 "evidence_1397924728875.mp3",
@@ -13820,8 +13822,6 @@
                 "paste-86951612907523.jpg",
                 "paste-87402584473603.jpg",
                 "paste-87857851006979.jpg",
-                "paste-88295937671171.jpg",
-                "paste-88734024335363.jpg",
                 "paste-89176405966851.jpg",
                 "paste-89614492631043.jpg",
                 "paste-90078349099011.jpg",
@@ -13838,6 +13838,7 @@
                 "proper_1397924728875.mp3",
                 "scan_1397924728875.mp3",
                 "section_1397924728875.mp3",
+                "sql-inner-join.png",
                 "surface_1397924728875.mp3"
             ],
             "name": "Unit 30",
@@ -13847,7 +13848,7 @@
                     "data": "",
                     "fields": [
                         "581",
-                        "<img src=\"paste-85671712653315.jpg\" />",
+                        "<img src=\"paste-85671712653315.jpg\">",
                         "<span style=\"color: rgb(204, 0, 0)\">ở trên,&nbsp;</span><span style=\"color: rgb(204, 0, 0); \">trên đầu</span>",
                         "__b__ __ __",
                         "above",
@@ -13952,7 +13953,7 @@
                     "data": "",
                     "fields": [
                         "586",
-                        "<img src=\"paste-88295937671171.jpg\" />",
+                        "<img src=\"sql-inner-join.png\">",
                         "<span style=\"color: rgb(204, 0, 0)\">thông thường, chung,&nbsp;</span><span style=\"color: rgb(204, 0, 0); \">phổ thông</span>",
                         "__ __ __m__ __",
                         "common",
@@ -13973,7 +13974,7 @@
                     "data": "",
                     "fields": [
                         "587",
-                        "<img src=\"paste-88734024335363.jpg\" />",
+                        "<img src=\"cover_image.jpg.640x360_q85_crop.jpg\">",
                         "<span style=\"color: rgb(204, 0, 0)\">chi phí,&nbsp;giá thành, phí tổn</span>",
                         "c__ __ __",
                         "cost",
@@ -14002,7 +14003,7 @@
                         "<div>To {{c1::demonstrate}} something is to show how it is done.</div>→ &nbsp;She {{c1::demonstrate}}d her plan to her co-workers.",
                         "[sound:demonstrate_1397924728875.mp3]",
                         "<div style=\"COLOR: #808080; MARGIN: 0px 0px 5px; LINE-HEIGHT: normal\"><span style=\"FONT-SIZE: 10.5pt;COLOR: #000000;LINE-HEIGHT: normal\"><b>demonstrate</b></span> &nbsp;</div>\n<div style=\"MARGIN: 0px 0px 5px\"><i>demonstrate /'demənstreit/</i><br />\n<ul>\n<li><b><i>ngoại động từ</i></b>\n<ul>\n<li><font color=\"#cc0000\"><b>chứng minh, giải thích</b></font></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>bày tỏ, biểu lộ, làm thấy rõ</b></font>\n<ul></ul></li></ul></li></ul>\n<ul></ul>\n<ul>\n<li><b><i>nội động từ</i></b>\n<ul>\n<li><font color=\"#cc0000\"><b>biểu tình, biểu tình tuần hành, biểu dương lực lượng</b></font>\n<ul>\n<li><b>to demonstrate in favour of something</b>: biểu tình ủng hộ ai cái gì</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>(quân sự) thao diễn</b></font></li></ul></li></ul></div>",
-                        ""
+                        "= prove"
                     ],
                     "flags": 0,
                     "guid": "FgMY7^%+@l",
@@ -14191,7 +14192,7 @@
                         "<div>If something is {{c1::proper}}, it is right.</div>→ &nbsp;It is not {{c1::proper}} to throw your garbage on the road.",
                         "[sound:proper_1397924728875.mp3]",
                         "<div style=\"MARGIN: 0px 0px 5px\"><i>proper /proper/</i><br />\n<ul>\n<li><b><i>tính từ</i></b>\n<ul>\n<li><font color=\"#cc0000\"><b>đúng, thích đáng, thích hợp</b></font>\n<ul>\n<li><b>at the proper time</b>: đúng lúc, phải lúc</li>\n<li><b>in the proper way</b>: đúng lề lối, đúng cách thức</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>đúng, đúng đắn, chính xác</b></font>\n<ul>\n<li><b>the proper meaning of a word</b>: nghĩa đúng (nghĩa đen) của một từ đó</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>((thường) đặt sau danh từ) thật sự, đích thực, đích thị, đích thân, bản thân</b></font>\n<ul>\n<li><b>within the sphere of architecture proper</b>: trong lĩnh vực kiến trúc thật sự</li>\n<li><b>proper fraction</b>: (toán học) phân số thật sự (bé hơn đơn vị)</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>riêng, riêng biệt</b></font>\n<ul>\n<li><b>the books proper to this subject</b>: những cuốn sách nói riêng về vấn đề này</li>\n<li><b>proper noun</b>: (ngôn ngữ học) danh từ riêng</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>(thông tục) hoàn toàn, thực sự, đích đáng, ra trò</b></font>\n<ul>\n<li><b>to give someone a proper beating</b>: nện cho ai một trận ra trò</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>đúng đắn, đúng mực, hợp thức, hợp lệ, chỉnh</b></font>\n<ul>\n<li><b>proper behaviour</b>: thái độ cư xử đúng đắn</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>(từ cổ,nghĩa cổ) chính, đích</b></font>\n<ul>\n<li><b>with one's proper eyes</b>: bằng chính mắt mình, đích mắt mình trông thấy</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>(từ cổ,nghĩa cổ) đẹp trai</b></font>\n<ul>\n<li><b>a proper man</b>: một người đẹp trai</li></ul></li></ul>\n<ul>\n<li><font color=\"#cc0000\"><b>có màu tự nhiên (ở huy chương, huy hiệu)</b></font>\n<ul>\n<li><b>a peacock proper</b>: con công màu tự nhiên (ở huy chương, huy hiêu)</li></ul></li></ul></li></ul></div>",
-                        ""
+                        "- The children need to learn <font color=\"#c6c600\">proper </font>behavior.<div>- Is this the <font color=\"#c6c600\">proper </font>spelling of your name?<br></div>"
                     ],
                     "flags": 0,
                     "guid": "L$>eqHVM5-",
@@ -14320,7 +14321,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "7edc8e26-91c9-11ea-b72a-9c305b3be320",
+            "crowdanki_uuid": "214da16e-98a6-11ea-b9bd-8cec4b4599e9",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -14361,6 +14362,51 @@
                 "perDay": 200
             },
             "timer": 0
+        },
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "83649f5d-af0b-11ea-9e97-4ccc6a262742",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "ThanhLD 10w/d",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 10,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "timer": 0
         }
     ],
     "desc": "Please see the <a href='https://ankiweb.net/shared/info/1125484373'>shared deck page</a> for more info.",
@@ -14368,13 +14414,13 @@
     "extendNew": 10,
     "extendRev": 50,
     "media_files": [],
-    "mid": "1587444825485",
+    "mid": 1397924728883,
     "name": "4000 Essential English Words - Book 1",
     "note_models": [
         {
             "__type__": "NoteModel",
             "crowdanki_uuid": "7edcb519-91c9-11ea-b3f9-9c305b3be320",
-            "css": ".container {\n\t\tfont-family: Bookerly;\n\t\tfont-size: 15px;\n\t\talign-content: center;\n\t\tmagin: 0px auto;\n\t}\n\n\t.left {\n\t\tfloat:left;\n\t}\n\n\t.left IMG{\n\t\twidth: 250px;\n\t\tborder-radius:5px;\n\t}\n\t\n\n\t.right {\n\t\tmargin-left: 260px;\n\t}\n\n\t.container.front .example {\n\t\tfont-style: italic;\n\t}\n\n\t.mg-bottom {\n\t\tmargin-bottom: 5px;\n\t}\n\n\t.container.front .suggest {\n\t\tcolor: orange;\n\t}\n\n\t.cloze {\n\t\tcolor: orange;\n\t}\n\n\t.hr {\n\t\twidth: 100%;\n\t\tborder: 0.4px solid #E5E5E5\n\t}\n\n\t#typeans {\n\t\tpadding: 5px 0px;\n \t\ttext-align: center;\n \t\tmax-width: 300px;\n\t}\n\n\tinput#typeans {\n \t\tborder-radius: 5px\n\t}\n\n\t.vr {\n\t\tborder-left:1px solid #E5E5E5;\n\t\theight:20px;\n\t\tmargin-left: 5px;\n\t\tmargin-right: 5px;\n\t}\n\n\t.description {\n\t\tfont-size: 12px;\n\t}\n\n\t.keyword {\n\t\tcolor: orange;\n\t\tfont-size: 20px;\n\t}\n\n\t.transcript {\n\n\t}\n\n\t.Desk {\n\t\tmargin-bottom: 10px;\n\t\tfont-size:8pt;\n\t\tfont-style: italic;\n\t}\n.suggest.big {\nfont-size:18px}\n\n.hide-me {\n\tdisplay: none;\n}\n",
+            "css": ".container {\n\t\tfont-family: Bookerly;\n\t\tfont-size: 15px;\n\t\talign-content: center;\n\t\tmagin: 0px auto;\n\t}\n\n\t.left IMG{\n\t\twidth: 300px;\n\t\tborder-radius:5px;\n\t}\n\t\n\t.container.front .example {\n\t\tfont-style: italic;\n\t}\n\n\t.mg-bottom {\n\t\tmargin-bottom: 5px;\n\t}\n\n\t.container.front .suggest {\n\t\tcolor: orange;\n\t}\n\n\t.cloze {\n\t\tcolor: orange;\n\t}\n\n\t.hr {\n\t\twidth: 100%;\n\t\tborder: 0.4px solid #E5E5E5\n\t}\n\n\t#typeans {\n\t\tpadding: 5px 0px;\n \t\ttext-align: center;\n \t\tmax-width: 300px;\n\t}\n\n\tinput#typeans {\n \t\tborder-radius: 5px\n\t}\n\n\t.vr {\n\t\tborder-left:1px solid #E5E5E5;\n\t\theight:20px;\n\t\tmargin-left: 5px;\n\t\tmargin-right: 5px;\n\t}\n\n\t.description {\n\t\tfont-size: 12px;\n\t}\n\n\t.keyword {\n\t\tcolor: orange;\n\t\tfont-size: 20px;\n\t}\n\n\t.Deck {\n\t\tmargin-top: -25px !important;\n\t\tfont-size:8pt;\n\t\tfont-style: italic;\n\t}\n.suggest.big {\nfont-size:18px}\n\n.hide-me {\n\tdisplay: none;\n}\n\n.input {\n\tdisplay: table;\n     text-align: right;\n}\n\n/* responsive */\n* {\n  box-sizing: border-box;\n}\n\n.row::after {\n  content: \"\";\n  clear: both;\n  display: block;\n}\n\n[class*=\"col-\"] {\n  float: left;\n  padding: 15px;\n}\n\n/* For desktop: */\n.col-1 {width: 8.33%;}\n.col-2 {width: 16.66%;}\n.col-3 {width: 25%;}\n.col-4 {width: 33.33%;}\n.col-5 {width: 41.66%;}\n.col-6 {width: 50%;}\n.col-7 {width: 58.33%;}\n.col-8 {width: 66.66%;}\n.col-9 {width: 75%;}\n.col-10 {width: 83.33%;}\n.col-11 {width: 91.66%;}\n.col-12 {width: 100%;}\n\n@media only screen and (max-width: 768px) {\n  /* For mobile phones: */\n  [class*=\"col-\"] {\n    width: 100%;\n  }\n}\n/* end responsive */",
             "flds": [
                 {
                     "font": "Arial",
@@ -14486,13 +14532,13 @@
             "tags": [],
             "tmpls": [
                 {
-                    "afmt": "\n<div class=Deck><span id=Deck>{{Deck}}</span></div>\n<script>document.getElementById('Deck').innerHTML=\"{{Deck}}\".replace(\"::\",\" &minus; \");\n</script><br/>\n<div class=\"container back\">\n\t<div class=\"left\">\n\t\t<div>{{type:cloze:Explaination}}</div>\n\t\t<div style=\"margin-top:20px\">{{IMG}}</div>\n\t</div>\n\t<div class=\"right\">\n\t\t<div class=\"suggest mg-bottom\">\n\t\t\t<span class=\"suggest keyword\">{{Keyword}}</span>\n\t\t\t<span class=\"vr\"></span>\n\t\t\t<span class=\"suggest\">{{Transcription}}</span>\n\t\t\t<span class=\"vr\"></span>\n\t\t\t<span>{{Sound}}</span>\n\t\t</div>\n<hr class=\"hr\">\n<div class=\"suggest big mg-bottom\">{{Short Vietnamese}}</div>\n\t\t\n\t\t<hr class=\"hr toggle\">\n\t\t<div class=\"description mg-bottom toggle\">{{Full Vietnamese}}</div>\n<hr class=\"hr\">\n\t\t<div class=\"suggest mg-bottom\">\n\t\t\t<div>{{cloze:Explaination}}</div>\n\t\t</div>\n\t\t<hr class=\"hr\">\n<div class=\"description\">\n\t\t\t<div>{{Extra}}</div>\n\t\t</div>\n<hr class=\"hr\">\n\t\t\n<div class=\"search\">\n  <a href=\"https://dict.laban.vn/find?type=1&query={{Keyword}}\">La bàn</a> //  \n  <a href=\"https://www.thefreedictionary.com/{{Keyword}}\">The Free Dictionary</a>  //  \n  <a href=\"https://getyarn.io/yarn-find?text={{Keyword}}\">Get Yarn</a>  //  \n  <a href=\"https://youglish.com/search/{{Keyword}}/all?\">YouGlish</a>  //  \n  <a href=\"http://images.google.com/search?tbm=isch&q={{Keyword}}\">Image</a> //\n  <a href=\"https://www.wordhippo.com/what-is/another-word-for/{{Keyword}}.html\">Synonyms</a> //\n  <a href=\"https://www.wordhippo.com/what-is/the-opposite-of/{{Keyword}}.html\">Antonyms</a>\n</div>\n\t</div>\n</div>\n",
+                    "afmt": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<div class=\"Deck col-12\"><span id=\"Deck\">{{Deck}}</span></div>\n<script>document.getElementById('Deck').innerHTML=\"{{Deck}}\".replace(\"::\",\" &minus; \");\n</script><br/>\n<div class=\"container back row\">\n\t<div class=\"left col-3\">\n\t\t<div>{{type:cloze:Explaination}}</div>\n\t\t<div style=\"margin-top:20px\">{{IMG}}</div>\n\t</div>\n\t<div class=\"right col-9\">\n\t\t<div class=\"suggest mg-bottom\">\n\t\t\t<span class=\"suggest keyword\">{{Keyword}}</span>\n\t\t\t<span class=\"vr\"></span>\n\t\t\t<span class=\"suggest\">{{Transcription}}</span>\n\t\t\t<span class=\"vr\"></span>\n\t\t\t<span>{{Sound}}</span>\n\t\t</div>\n<hr class=\"hr\">\n<div class=\"suggest big mg-bottom\">{{Short Vietnamese}}</div>\n\t\t\n\t\t<hr class=\"hr toggle\">\n\t\t<div class=\"description mg-bottom toggle\">{{Full Vietnamese}}</div>\n<hr class=\"hr\">\n\t\t<div class=\"suggest mg-bottom\">\n\t\t\t<div>{{cloze:Explaination}}</div>\n\t\t</div>\n\t\t<hr class=\"hr\">\n<div class=\"description\">\n\t\t\t<div>{{Extra}}</div>\n\t\t</div>\n<hr class=\"hr\">\n\t\t\n<div class=\"search\">\n  <a href=\"https://dict.laban.vn/find?type=1&query={{Keyword}}\">La bàn</a> //  \n  <a href=\"https://www.thefreedictionary.com/{{Keyword}}\">The Free Dictionary</a>  //  \n  <a href=\"https://getyarn.io/yarn-find?text={{Keyword}}\">Get Yarn</a>  //  \n  <a href=\"https://youglish.com/search/{{Keyword}}/all?\">YouGlish</a>  //  \n  <a href=\"http://images.google.com/search?tbm=isch&q={{Keyword}}\">Image</a> //\n  <a href=\"https://www.wordhippo.com/what-is/another-word-for/{{Keyword}}.html\">Synonyms</a> //\n  <a href=\"https://www.wordhippo.com/what-is/the-opposite-of/{{Keyword}}.html\">Antonyms</a> //\n  <a href=\"https://www.oxfordlearnersdictionaries.com/definition/english/{{Keyword}}\">Oxford</a>\n</div>\n\t</div>\n</div>\n",
                     "bafmt": "",
                     "bqfmt": "",
                     "did": null,
                     "name": "Cloze",
                     "ord": 0,
-                    "qfmt": "<div class=Deck><span id=Deck>{{Deck}}</span></div>\n<script>document.getElementById('Deck').innerHTML=\"{{Deck}}\".replace(\"::\",\" &minus; \");</script><br/>\n<div class=\"container front\">\n\t<div class=\"left\">\n\t\t{{IMG}}\n\t</div>\n\t<div class=\"right\">\n\t\t\n\t\t<div class=\"explaination mg-bottom\">{{cloze:Explaination}}</div>\n\t\t<hr class=\"hr\">\n<div class=\"suggest big mg-bottom\">{{Suggestion}}</div>\n\t\t<hr class=\"hr hide-me\">\n<div class=\"suggest big mg-bottom hide-me\">{{Short Vietnamese}}</div>\n\t\t<hr class=\"hr\">\n\t\t<div class=\"input mg-bottom\">{{type:cloze:Explaination}}</div>\n\t</div>\n</div>\n"
+                    "qfmt": "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n<div class=\"Deck col-12\"><span id=\"Deck\">{{Deck}}</span></div>\n<script>document.getElementById('Deck').innerHTML=\"{{Deck}}\".replace(\"::\",\" &minus; \");</script><br/>\n<div class=\"container front row\">\n\t<div class=\"left col-3\">\n\t\t{{IMG}}\n\t</div>\n\t<div class=\"right col-9\">\n\t\t\n\t\t<div class=\"explaination mg-bottom\">{{cloze:Explaination}}</div>\n\t\t<hr class=\"hr\">\n<div class=\"suggest big mg-bottom\">{{Suggestion}}</div>\n\t\t<hr class=\"hr hide-me\">\n<div class=\"suggest big mg-bottom hide-me\">{{Short Vietnamese}}</div>\n\t\t<hr class=\"hr\">\n\t\t<div class=\"input mg-bottom\">{{type:cloze:Explaination}}</div>\n\t</div>\n</div>\n"
                 }
             ],
             "type": 1,
